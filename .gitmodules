@@ -2,3 +2,6 @@
 	path = xmarts/credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = dev12
+[submodule "pos_save_quotations"]
+	path = pos_save_quotations
+	url = git@github.com:viernes/pos_save_quotations.git
